@@ -1,6 +1,6 @@
 {
   "name": "play-with-digit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Do digit staff",
   "main": "index.js",
   "scripts": {
